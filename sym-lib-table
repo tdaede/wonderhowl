@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name wonderhowl)(type Legacy)(uri ${KIPRJMOD}/wonderhowl.lib)(options "")(descr ""))
+)

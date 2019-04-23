@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name wonderhowl)(type KiCad)(uri ${KIPRJMOD}/wonderhowl.pretty)(options "")(descr ""))
+)
